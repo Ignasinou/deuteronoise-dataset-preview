@@ -1,0 +1,4 @@
+﻿MMSI;vessel_type;distance;start_event;end_event;audio_file
+264163225;Pilot;57,0601;00:24;01:03;babyshark_constp_20240906_192027_048.wav
+264163248;Other type;61,1091;10:28;11:44;babyshark_constp_20240906_150517_048.wav
+264162573;Cargo ship;66,0304;12:25;13:17;babyshark_constp_20240906_162020_048.wav

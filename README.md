@@ -45,17 +45,30 @@ DeuteroNoise website.
 Each campaign folder contains:
 
 - **audio files** (`audio_*.wav` — placeholder or real samples)
-- `metadata.csv` with: `MMSI, vessel_type, distance, start_time, end_time, audio_file`
+- **`[campaign]_metadata.csv`** with: `MMSI, vessel_type, distance, start_time, end_time, audio_file`
 
 ---
 
-## 🎥 Demo video
+## 🎥 Demo videos
 
-A short screen-capture of the planned **Streamlit-based website** is provided:
+### Get Spectrogram from MMSI *(inline preview)*
 
-<p align="center">
-  <img src="docs/demo.mov" alt="Demo video placeholder" width="600"/>
-</p>
+https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part2.mov
+
+*(This video will play directly on GitHub — no download needed.)*
+
+---
+
+### Other demos
+
+- **Landing Page Demo**  
+  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part1.mov
+
+- **Data Analysis from Campaign**  
+  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part3.mov
+
+- **Extended Data Analysis**  
+  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part4.mov
 
 ---
 
