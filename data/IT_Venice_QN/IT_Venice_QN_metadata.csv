@@ -1,0 +1,4 @@
+﻿MMSI;vessel_type;distance;start_event;end_event;audio_file
+247052440;Fishing vessel;89;312,1706667;369,4613333;urec_rosso_20240312_131010_048.wav
+247051910;Fishing vessel;85;170;211,4613333;urec_rosso_20240312_134012_048.wav
+247051770;Fishing vessel;81;259,0426667;307,5866667;urec_rosso_20240312_141013_048.wav
