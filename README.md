@@ -53,22 +53,20 @@ Each campaign folder contains:
 
 ### Get Spectrogram from MMSI *(inline preview)*
 
-https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part2.mov
-
-*(This video will play directly on GitHub — no download needed.)*
+https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part2.mov
 
 ---
 
 ### Other demos
 
 - **Landing Page Demo**  
-  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part1.mov
+  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part1.mov
 
 - **Data Analysis from Campaign**  
-  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part3.mov
+  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part3.mov
 
 - **Extended Data Analysis**  
-  https://github.com/your-org/deuteronoise-dataset-preview/raw/main/docs/demo_part4.mov
+  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part4.mov
 
 ---
 
