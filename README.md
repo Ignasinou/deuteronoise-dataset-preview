@@ -78,6 +78,6 @@ Each campaign folder contains:
 The complete database with all audio, metadata, and interactive search tools
 will be hosted at:
 
-**<https://deuteronoise.eu>** *(placeholder URL — replace with your real site)*
+**<https://deuteronoise.eu>**
 
 ---
