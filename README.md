@@ -44,29 +44,32 @@ DeuteroNoise website.
 
 Each campaign folder contains:
 
-- **audio files** (`audio_*.wav` — placeholder or real samples)
-- **`[campaign]_metadata.csv`** with: `MMSI, vessel_type, distance, start_time, end_time, audio_file`
+- **audio files**: `audio_*.wav` — placeholder or real samples.
+- **metadata**:`[campaign]_metadata.csv` with: `MMSI, vessel_type, distance, start_time, end_time, audio_file`
 
 ---
 
 ## 🎥 Demo videos
 
-### Get Spectrogram from MMSI *(inline preview)*
+### Landing Page Demo
+<p align="center">
+  <img src="docs/demo_part1.gif" alt="Landing Page Demo" width="800"/>
+</p>
 
-https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part2.mov
+### Get Spectrogram from MMSI
+<p align="center">
+  <img src="docs/demo_part2.gif" alt="Get Spectrogram from MMSI demo" width="800"/>
+</p>
 
----
+### Data Analysis from Campaign
+<p align="center">
+  <img src="docs/demo_part3.gif" alt="Data Analysis from Campaign" width="800"/>
+</p>
 
-### Other demos
-
-- **Landing Page Demo**  
-  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part1.mov
-
-- **Data Analysis from Campaign**  
-  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part3.mov
-
-- **Extended Data Analysis**  
-  https://github.com/ignasinou/deuteronoise-dataset-preview/raw/main/docs/demo_part4.mov
+### Extended Data Analysis from Campaign
+<p align="center">
+  <img src="docs/demo_part4.gif" alt="Extended Data Analysis from Campaign" width="800"/>
+</p>
 
 ---
 
