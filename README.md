@@ -6,6 +6,15 @@
 
 ---
 
+## 🌐 Full website (coming soon)
+
+The complete database with all audio, metadata, and interactive search tools
+will be hosted at:
+
+**<https://deuteronoise.eu>**
+
+---
+
 ## 🔍 Overview
 
 The **DeuteroNoise Database** is a **multi-basin, calibrated underwater sound dataset**
@@ -70,14 +79,5 @@ Each campaign folder contains:
 <p align="center">
   <img src="docs/demo_part4.gif" alt="Extended Data Analysis from Campaign" width="800"/>
 </p>
-
----
-
-## 🌐 Full website (coming soon)
-
-The complete database with all audio, metadata, and interactive search tools
-will be hosted at:
-
-**<https://deuteronoise.eu>**
 
 ---
